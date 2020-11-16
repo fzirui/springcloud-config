@@ -1,4 +1,2 @@
 config:
   info: I'm dev branch , current version = 5.0
-server:
-  port: 5555
